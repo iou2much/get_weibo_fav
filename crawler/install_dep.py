@@ -6,4 +6,4 @@ pip install urllib
 pip install rsa
 pip install json
 pip install binascii
-pip install MySQLdb
+pip install scrapy
